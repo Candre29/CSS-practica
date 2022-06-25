@@ -1,0 +1,66 @@
+.header{
+    display:flex;
+}
+
+.texth{
+    color:#002d6b;
+    font-weight: 600;
+    font-size: 30px;
+}
+
+.colorsito{
+    color:#002d6b;
+    font-weight: 600;
+}
+
+.text{
+    color:#6d7b93;
+}
+
+.text2{
+    color:#213f73;
+}
+
+.text3{
+    color:#1f3e72;
+}
+
+.gradiente{
+    background: linear-gradient(to bottom right, #1f3e72,#3464db)
+}
+
+.center{
+    text-align: center;
+}
+
+.triangulito1{
+    background-color: ;
+    height:0px;
+    width:0px;
+    left: 20%;
+    border-bottom: 50px solid transparent;
+    border-left: 50px solid transparent;
+    border-top: 50px solid rgba(196,198,201,0.35);
+    border-right: 50px solid transparent;
+    position:absolute;
+}
+
+.triangulito2{
+    height:0px;
+    width:0px;
+    top: 45%;
+    left:77%;
+    border-bottom: 70px solid transparent;
+    border-left: 70px solid transparent;
+    border-top: 70px solid transparent ;
+    border-right: 70px solid rgba(196,198,201,0.35);
+    position:relative;
+}
+
+.imagenizquierda{
+    float: left;
+}
+
+.left{
+    text-align: left;
+}

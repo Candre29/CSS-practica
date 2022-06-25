@@ -1,0 +1,42 @@
+ctrl+b  -->hide sidebar
+ctrl+l --> seleccionar linea actual
+ctrl+1/2/3  -->mover entre pantallas
+
+
+Color gradiente
+
+.box{
+	width=50vw;
+	height:50vw;
+	background-image:linear-gradient(color1 75%,color2)
+}
+
+also can control the direction
+
+.box{
+	width=50vw;
+	height:50vw;
+	background-image:linear-gradient( to top right, color1 75%,color2)
+}
+
+
+
+List of colors
+navbar	#3555d3
+headers	#002d6b
+text	#6d7b93
+text2	#213f73
+text3	#1f3e72
+
+gradiente                                                      
+top left	#1f3e72
+down right	#3464db
+
+
+botones
+background: linear-gradient(to bottom right, #1f3e72,#3464db)
+
+imagen
+background:linear-gradient(to bottom, #17a0e7,#3462da)
+
+
